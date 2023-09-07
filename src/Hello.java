@@ -15,6 +15,8 @@ public class Hello{
     }
     public static void sayGoodBye(String name) {
         System.out.println("Good bye " +name);
+        System.out.println("Commit1");
+        System.out.println("Commit2");
     }
 
 
